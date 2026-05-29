@@ -36,5 +36,5 @@ The responsiveness was tested by resizing the browser window and using device vi
 This project helped me understand webpage structure, responsive design, Flexbox layouts, and styling techniques using HTML and CSS.
 
 
-Original URL: [https://codepen.io/pragnyavootla/pen/MYbrerp](https://codepen.io/pragnyavootla/pen/MYbrerp).
+
 
